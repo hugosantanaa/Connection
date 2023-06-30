@@ -1,4 +1,4 @@
-
+package br.com.fiap.telaTeste;
 
 import java.awt.EventQueue;
 import java.awt.FlowLayout;

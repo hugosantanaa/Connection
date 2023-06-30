@@ -1,4 +1,4 @@
-
+package br.com.fiap.telaTeste;
 
 import java.awt.EventQueue;
 import java.awt.FlowLayout;
@@ -53,7 +53,7 @@ public class RadioButtonFrame extends JFrame {
 		add(italicJRadioButton);
 		add(boldItalicJRadioButton);
 
-		// cria relacionamento lógico entre JRadioButtons
+		// cria relacionamento lï¿½gico entre JRadioButtons
 		radioGroup = new ButtonGroup();
 		radioGroup.add(plainJRadioButton);
 		radioGroup.add(boldJRadioButton);
